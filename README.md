@@ -1,2 +1,0 @@
-# BitCodeTask1
-BitCodeTask
